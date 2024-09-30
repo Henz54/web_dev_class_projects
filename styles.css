@@ -1,0 +1,25 @@
+*{
+    margin: 5%;
+    padding: 0px 0%;
+    font-style: 0;
+    box-sizing: border-box;
+    justify-content: top;
+    align-items: center ;
+}
+nav, section{
+    padding: 26px 10%
+}
+nav{
+    display:flex;
+    justify-content: top;
+    align-items: center;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+    gap:5px
+}
+
+
+
